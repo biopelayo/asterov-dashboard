@@ -1,0 +1,75 @@
+{
+  "photos": [
+    {
+      "id": "equipo_san_claudio",
+      "file": "galeria/equipo_san_claudio.jpg",
+      "title": "El equipo",
+      "caption": "San Claudio 25/26 antes del partido",
+      "category": "equipo",
+      "date": "2026-01-11"
+    },
+    {
+      "id": "campo_porteria",
+      "file": "galeria/campo_porteria.jpg",
+      "title": "La portería",
+      "caption": "Vista desde dentro de la portería. Colores azul y amarillo.",
+      "category": "futbol",
+      "date": "2025-11-09"
+    },
+    {
+      "id": "parrillada",
+      "file": "galeria/parrillada.jpg",
+      "title": "Parrillada nocturna",
+      "caption": "Parrillada de carne al carbón. Nivel: épico.",
+      "category": "farturas",
+      "date": "2025-10-03"
+    },
+    {
+      "id": "corderos_asador",
+      "file": "galeria/corderos_asador.jpg",
+      "title": "Corderos al asador",
+      "caption": "Los corderos de Anín. Tradición del equipo.",
+      "category": "farturas",
+      "date": "2025-10-03"
+    },
+    {
+      "id": "gambas",
+      "file": "galeria/gambas.jpg",
+      "title": "Gambas a la plancha",
+      "caption": "Plancha de langostinos. Cena de equipo diciembre.",
+      "category": "farturas",
+      "date": "2025-12-04"
+    },
+    {
+      "id": "paella",
+      "file": "galeria/paella.jpg",
+      "title": "La paella",
+      "caption": "Paellera de competición. Para todo el equipo y la familia.",
+      "category": "farturas",
+      "date": "2025-12-04"
+    },
+    {
+      "id": "corderos_mesa",
+      "file": "galeria/corderos_mesa.jpg",
+      "title": "Preparando el cordero",
+      "caption": "Cuatro corderos marinados y listos para el asador.",
+      "category": "farturas",
+      "date": "2026-02-20"
+    },
+    {
+      "id": "tintin_oviedo",
+      "file": "galeria/tintin_oviedo.jpg",
+      "title": "Tintín y el Capitán",
+      "caption": "En el Oviedo con los filtros del grupo. Nivel de risa: máximo.",
+      "category": "risa",
+      "date": "2025-12-07"
+    }
+  ],
+  "categories": [
+    { "id": "todos", "label": "Todos", "emoji": "📸" },
+    { "id": "equipo", "label": "Equipo", "emoji": "⚽" },
+    { "id": "futbol", "label": "Fútbol", "emoji": "🏟️" },
+    { "id": "farturas", "label": "Farturas", "emoji": "🍽️" },
+    { "id": "risa", "label": "Risa", "emoji": "😂" }
+  ]
+}

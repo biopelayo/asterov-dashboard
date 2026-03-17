@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "asterov-dashboard",
+      "command": "npm run dev",
+      "cwd": "D:\\Antigravity\\asterov-dashboard\\dashboard",
+      "port": 5173
+    }
+  ]
+}
