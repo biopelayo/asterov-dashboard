@@ -9,6 +9,38 @@
       "date": "2026-01-11"
     },
     {
+      "id": "equipo_sc_1",
+      "file": "galeria/equipo_sc_1.jpg",
+      "title": "San Claudio FC",
+      "caption": "Alineación de San Claudio en campo de Asturias. 1ª División Liga Asterov.",
+      "category": "equipo",
+      "date": "2025-09-15"
+    },
+    {
+      "id": "equipo_sc_2",
+      "file": "galeria/equipo_sc_2.jpg",
+      "title": "Los nuestros",
+      "caption": "San Claudio antes del pitido inicial. Camiseta amarilla con franja azul.",
+      "category": "equipo",
+      "date": "2025-10-05"
+    },
+    {
+      "id": "bio_model_san_claudio",
+      "file": "galeria/bio_model_san_claudio.png",
+      "title": "Estudio de rendimiento — San Claudio",
+      "caption": "Bio-modelo con la 1ª equipación amarilla. Estudio fisiológico E.G.S. 2024.",
+      "category": "equipo",
+      "date": "2024-12-01"
+    },
+    {
+      "id": "bio_model_tramontana",
+      "file": "galeria/bio_model_tramontana.png",
+      "title": "Estudio de rendimiento — Tramontana",
+      "caption": "Bio-modelo con la equipación de Cafetería Tramontana. Estudio fisiológico E.G.S. 2024.",
+      "category": "futbol",
+      "date": "2024-12-01"
+    },
+    {
       "id": "campo_porteria",
       "file": "galeria/campo_porteria.jpg",
       "title": "La portería",
