@@ -1,0 +1,149 @@
+{
+  "last_updated": "2026-03-17T17:14:56.379748",
+  "source": "https://cdasterov.es",
+  "tournament": "LIGA ASTEROV 2025/26",
+  "tournament_id": "1317178",
+  "divisions": {
+    "1a_division": "1ª División",
+    "2a_division": "2ª División"
+  },
+  "featured_team": "SAN CLAUDIO",
+  "featured_team_id": "15612878",
+  "team_index": {
+    "15612879": {
+      "name": "MANUEL CAÑEDO",
+      "division": "1a_division",
+      "total_players": 29
+    },
+    "15612875": {
+      "name": "METALASA",
+      "division": "1a_division",
+      "total_players": 29
+    },
+    "15612877": {
+      "name": "LAVIANA CF",
+      "division": "1a_division",
+      "total_players": 37
+    },
+    "15612883": {
+      "name": "CAFETEROS",
+      "division": "1a_division",
+      "total_players": 24
+    },
+    "15612880": {
+      "name": "PELUQUERIAS FRAN",
+      "division": "1a_division",
+      "total_players": 31
+    },
+    "15612868": {
+      "name": "ABLAÑA GLASSDRIVE-SCALA A",
+      "division": "1a_division",
+      "total_players": 30
+    },
+    "15612890": {
+      "name": "MERENDERO EL CRUCE",
+      "division": "1a_division",
+      "total_players": 29
+    },
+    "15612872": {
+      "name": "MANJOYA",
+      "division": "1a_division",
+      "total_players": 28
+    },
+    "15612888": {
+      "name": "MIERES DEPORTIVO JALOGU TELECOM",
+      "division": "1a_division",
+      "total_players": 32
+    },
+    "15612874": {
+      "name": "PEÑA  PACHIN",
+      "division": "1a_division",
+      "total_players": 37
+    },
+    "15612878": {
+      "name": "SAN CLAUDIO",
+      "division": "1a_division",
+      "total_players": 38
+    },
+    "15612869": {
+      "name": "GIJÓN DEPORTIVO",
+      "division": "1a_division",
+      "total_players": 25
+    },
+    "15612891": {
+      "name": "CF CUELEBRE",
+      "division": "1a_division",
+      "total_players": 37
+    },
+    "15612871": {
+      "name": "REAL ASTURCON",
+      "division": "1a_division",
+      "total_players": 36
+    },
+    "15612893": {
+      "name": "BOOMBASTIC F.C.",
+      "division": "2a_division",
+      "total_players": 34
+    },
+    "15612894": {
+      "name": "HURACÁN DE CARREÑO CF",
+      "division": "2a_division",
+      "total_players": 36
+    },
+    "15612873": {
+      "name": "DON PELAYO DESSERT F.C./CORREDORIA VETERANOS",
+      "division": "2a_division",
+      "total_players": 34
+    },
+    "15612867": {
+      "name": "ASTURES-ZAM",
+      "division": "2a_division",
+      "total_players": 29
+    },
+    "15612886": {
+      "name": "LOS ARGENTOS FC",
+      "division": "2a_division",
+      "total_players": 31
+    },
+    "15612889": {
+      "name": "OLLONIEGO CITY",
+      "division": "2a_division",
+      "total_players": 30
+    },
+    "15612881": {
+      "name": "EL LUPULO FEROZ",
+      "division": "2a_division",
+      "total_players": 35
+    },
+    "15612887": {
+      "name": "ESPARTANOS CF",
+      "division": "2a_division",
+      "total_players": 23
+    },
+    "15612870": {
+      "name": "ATLETICO JALIN",
+      "division": "2a_division",
+      "total_players": 33
+    },
+    "15612884": {
+      "name": "BAR DE VINOS-speedDoor",
+      "division": "2a_division",
+      "total_players": 33
+    },
+    "15612876": {
+      "name": "BAR ALCEDO",
+      "division": "2a_division",
+      "total_players": 25
+    },
+    "15612882": {
+      "name": "URSA-CONDAL VETERANOS",
+      "division": "2a_division",
+      "total_players": 38
+    }
+  },
+  "stats_summary": {
+    "total_teams": 26,
+    "total_players": 823,
+    "total_matches": 362
+  }
+}

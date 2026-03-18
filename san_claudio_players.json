@@ -1,0 +1,234 @@
+{
+  "team": "San Claudio",
+  "team_id": "15612878",
+  "players": [
+    {
+      "name": "Juan Carlos Fernandez Alvarez",
+      "alias": "Mister",
+      "position": "Entrenador",
+      "notes": "Entrenador del equipo. Enfermero de profesión. Mucha calidad aunque no lo parezca."
+    },
+    {
+      "name": "Froilan Alvarez Fernandez",
+      "alias": "Anín",
+      "position": "Polivalente",
+      "notes": "Mundialmente conocido como Anín. Puede jugar de lo que quiera, auténtico todoterreno. Su verdadera vocación son los corderos y las farturas."
+    },
+    {
+      "name": "Jose Ramon Fernandez Mier",
+      "alias": "Canín",
+      "position": "Portero",
+      "notes": "Capitán del equipo. El mejor portero. Reflejos felinos todavía latentes. Gran portero, mejor carácter."
+    },
+    {
+      "name": "Adrian Gallego Gonzalez",
+      "alias": "Adri",
+      "position": "Delantero Centro / Central",
+      "notes": "Versátil, juega tanto de delantero centro como de central. Mucha calidad y bastante masa corporal. Buen compañero de cervezas."
+    },
+    {
+      "name": "Pelayo Gonzalez de Lena Rodriguez",
+      "alias": "Pela",
+      "position": "Delantero",
+      "notes": "Máximo goleador del equipo. 18 goles en 18 partidos."
+    },
+    {
+      "name": "Santiago Marban Lera",
+      "alias": "Santi",
+      "position": "Defensa",
+      "notes": "Incorporación de este año. Puede jugar en cualquier posición de la defensa, a veces lo hace por falta de efectivos. Renovado para el año que viene."
+    },
+    {
+      "name": "ALEJANDRO PESQUERA BENGOA",
+      "alias": "Alex",
+      "position": "Centrocampista / Polivalente",
+      "notes": "Incorporación de este año. Vino a ayudar cuando no había suficiente gente. Luchador y agresivo en el campo, muy divertido fuera. Mejor tenerlo en el equipo que en el contrario. Renovado para el año que viene."
+    },
+    {
+      "name": "Ramiro lopez saiz",
+      "alias": "Rami",
+      "position": "Centrocampista",
+      "notes": "Incorporación de este año. Mucha calidad y visión de juego. Cuando recupere la forma será un jugadorazo. Le quedan 4 partidos."
+    },
+    {
+      "name": "DAVID RIOS CALLE",
+      "alias": "Chito",
+      "position": "Polivalente",
+      "notes": "Incorporación de este año. Ha jugado en todas las posiciones menos de portero. Segundo máximo goleador del equipo. Entrenador de boxeo de profesión: mejor no cabrearle."
+    },
+    {
+      "name": "Francisco Jose Alvarez Alvarez",
+      "alias": "Paco",
+      "position": "Lateral Derecho",
+      "notes": "Fijo e indispensable en la defensa. Como Jordi Hurtado: cuanto más pasa el tiempo mejor está. Un cañón. Siempre en el equipo."
+    },
+    {
+      "name": "Jose Ignacio Garcia Garcia",
+      "alias": "Nacho",
+      "position": "Defensa Central",
+      "notes": "Probablemente el mejor defensa del equipo. También es escalador, sube por una pared si le da la gana. Indispensable, pero entre lesiones e hijos pequeños no ha podido estar todo lo que se le necesita."
+    },
+    {
+      "name": "Francisco Garcia Gijon",
+      "alias": "Fran",
+      "position": "Defensa",
+      "notes": "Ha jugado en todas las posiciones de la defensa. Doblador de cine y speaker, entre otras muchas facetas ocultas. El hombre renacentista del San Claudio."
+    },
+    {
+      "name": "Pablo Fernandez Garcia",
+      "alias": "Pablo",
+      "position": "Mediocentro / Central",
+      "notes": "Incorporación de este año. Veterano con mucho control de balón, indispensable en el mediocampo. Puede jugar también de central. Lástima que no haya podido venir todo lo que se necesitaba."
+    },
+    {
+      "name": "Alvaro Suarez Martin",
+      "alias": "Alvarito",
+      "position": "Central / Lateral / Portero",
+      "notes": "Amigo de la infancia, compañeros de colegio. Llegó a jugar en Tercera División. Antes portero, ahora juega de central o lateral. Siempre en el equipo donde le pongas. Padre de 2 hijos."
+    },
+    {
+      "name": "Jose Diego Ramos Fernandez",
+      "alias": "Popo",
+      "position": "La que él quiera",
+      "notes": "Más calidad que Cazorla, con algún kilo extra de señorío. Un grande, siempre dispuesto a compartir un cigarro al pitido final."
+    },
+    {
+      "name": "Ignacio Rosa Cuesta",
+      "alias": "Rosas",
+      "position": "Centrocampista",
+      "notes": "Agente de seguridad del estado, así que mejor no decir mucho. Capaz de marcar desde medio campo y dar pases increíbles, con alguna pérdida razonable. Mejor cruzárselo de día y en chándal."
+    },
+    {
+      "name": "Eduardo Rivero Fernandez",
+      "alias": "Edu",
+      "position": "Delantero / Extremo",
+      "notes": "El más fuerte y el más rápido de la plantilla. Buena gente pero mejor no chocar con él. Pura potencia."
+    },
+    {
+      "name": "Mariano garcia alvarez",
+      "alias": "Mariano",
+      "position": "Centrocampista",
+      "notes": "Incorporación de este año. Curtido en mil batallas y mil campos, muchísima calidad. Un poco pupas últimamente, se le echa de menos. Clásico de los Soportales, la Eria Crew."
+    },
+    {
+      "name": "Daniel Sanchez De Dios",
+      "alias": "Dani",
+      "position": "Centrocampista",
+      "notes": "Del club de los papás cansados. Mucha clase, capaz de girarse y hacerte un caño sin apenas moverse. Se le ha echado de menos este año."
+    },
+    {
+      "name": "Daniel Alestar Chirosca",
+      "alias": "Danny",
+      "position": "Mediocentro Defensivo",
+      "notes": "El Rodri del San Claudio. Fichaje reciente, indispensable. Otro que te puede matar de un golpe. Renovado automáticamente en su primer partido."
+    },
+    {
+      "name": "Ivan Bautista Caicedo",
+      "alias": "Iván",
+      "position": "Delantero Centro",
+      "notes": "Probablemente el único delantero centro puro de la plantilla. Capaz de jugar de espaldas a portería, buen juego de pivote. No ha podido venir todo lo que se le necesitaba."
+    },
+    {
+      "name": "Andres Alvarez Alvarez",
+      "alias": "Andres",
+      "position": "Lateral Izquierdo / Extremo Izquierdo",
+      "notes": "La mejor zurda del equipo y de parte de la liga. Sus centros son únicos. Jugador de mucha clase. Del club de papás cansados. Ojalá hubiera podido venir más."
+    },
+    {
+      "name": "Ivan Gonzalez Bada",
+      "alias": "Bada",
+      "position": "Lateral Derecho",
+      "notes": "Incorporación de este año. De los Soportales, la Eria Crew, como Mariano. Lateral de largo recorrido y con cara de pocos amigos."
+    },
+    {
+      "name": "ROBERTO DANIEL BENGOA PESQUERA",
+      "alias": "Robertín",
+      "position": "Mediapunta / Delantero",
+      "notes": "Incorporación de este año. Le pega con las dos piernas. De los Soportales, la Eria Crew. Tiene compromisos los fines de semana que le impiden venir todo lo que se querría."
+    },
+    {
+      "name": "Igor Cabrera Eguiluz",
+      "alias": "Igor",
+      "position": "Extremo / Delantero",
+      "notes": "Mitad asturiano, mitad vasco, imagínate chocar con él. Veloz como un rayo. De los Soportales, la Eria Crew. Del club de padres cansados con 2 criaturas. Se le echa de menos."
+    },
+    {
+      "name": "Javier Martinez Aller",
+      "alias": "Javi",
+      "position": "Central",
+      "notes": "Central con cuerpo de futbolista profesional, probablemente el único de la plantilla. Expeditivo, corte rápido, un clásico. No puede venir todo lo que se necesita."
+    },
+    {
+      "name": "MANUEL VAZQUEZ RIVA",
+      "alias": "Manuel",
+      "position": null,
+      "notes": "Sin datos personales disponibles."
+    },
+    {
+      "name": "Pablo Fernandez Zapico",
+      "alias": "Pablo S. Zapico",
+      "position": "Delantero / Extremo",
+      "notes": "Joven, rápido, con calidad. Lo que el equipo necesita arriba. Hijo del capitán Canín. Vive y trabaja en Madrid, por eso no puede venir todo lo que se querría."
+    },
+    {
+      "name": "BORJA FRANCISCO BARBON VELASCO",
+      "alias": "Borch",
+      "position": "Defensa / Polivalente",
+      "notes": "Clásico del San Claudio, conocido de hace tiempo. Profesor de tenis. Socio del Oviedo a muerte. Este año no ha podido venir."
+    },
+    {
+      "name": "DAVID MARTINEZ DIEGO",
+      "alias": "Puru",
+      "position": "Extremo / Mediapunta Zurdo",
+      "notes": "Mítico futbolista zurdo de clase y categoría. Formado en las categorías del Colloto. Prácticamente inédito esta temporada."
+    },
+    {
+      "name": "Julio Bernardo Cortes Hernando",
+      "alias": "Julio",
+      "position": null,
+      "notes": "Sin datos disponibles."
+    },
+    {
+      "name": "LUIS ALBERTO COLUNGA SUAREZ",
+      "alias": "Berto",
+      "position": "Extremo / Jugador de Banda",
+      "notes": "Incorporación de este año. Rápido y veloz. Formado en las categorías inferiores del Racing de Resaca, llegando a debutar en el primer equipo."
+    },
+    {
+      "name": "MIGUEL DIAZ ARIAS",
+      "alias": "Miguel",
+      "position": null,
+      "notes": "Sin datos disponibles."
+    },
+    {
+      "name": "Jorge Fernandez Cachero",
+      "alias": "Jito",
+      "position": "Centrocampista / Polivalente",
+      "notes": "Formado en las categorías inferiores del Astur. Futbolista histórico del San Claudio. Mucha clase. Prácticamente inédito este año."
+    },
+    {
+      "name": "Constantin Gabriel Vreja",
+      "alias": "Gabriel",
+      "position": "Polivalente",
+      "notes": "Incorporación de este año. Buen amigo de Danny. Le quedan 4 partidos para demostrar su valía."
+    },
+    {
+      "name": "Juan Camilo Rodriguez Lasso",
+      "alias": "Camilo",
+      "position": "Extremo / Centrocampista Zurdo",
+      "notes": "Zurdo con buen juego y visión de pase. Solo pudo disputar un partido, pero en ese encuentro dio 2-3 asistencias de gol."
+    },
+    {
+      "name": "OLIVER GONZALEZ GONZALEZ",
+      "alias": "Óliver",
+      "position": null,
+      "notes": "Sin datos disponibles."
+    },
+    {
+      "name": "Pablo Blanco Menandez",
+      "alias": "Pablín",
+      "position": null,
+      "notes": "0 partidos, 0 goles. Recién padre, aunque eso no le excluye de venir a sudar y hacer un poco de cardio."
+    }
+  ]
+}
