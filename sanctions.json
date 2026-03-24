@@ -1,5 +1,317 @@
 [
   {
+    "player": "Omar Bello Valdes",
+    "round": "Jornada 23",
+    "match": "DON PELAYO DESSERT F.C./CORREDORIA VETERANOS — URSA-CONDAL VETERANOS",
+    "team": "URSA-CONDAL VETERANOS",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "Santiago Ordoñez garcia",
+    "round": "Jornada 23",
+    "match": "DON PELAYO DESSERT F.C./CORREDORIA VETERANOS — URSA-CONDAL VETERANOS",
+    "team": "URSA-CONDAL VETERANOS",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "Omar Bello Valdes",
+    "round": "Jornada 23",
+    "match": "DON PELAYO DESSERT F.C./CORREDORIA VETERANOS — URSA-CONDAL VETERANOS",
+    "team": "URSA-CONDAL VETERANOS",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "Jorge  Blanco Prieto",
+    "round": "Jornada 23",
+    "match": "DON PELAYO DESSERT F.C./CORREDORIA VETERANOS — URSA-CONDAL VETERANOS",
+    "team": "DON PELAYO DESSERT F.C./CORREDORIA VETERANOS",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "Nicolas Mariano Cordoba",
+    "round": "Jornada 23",
+    "match": "ASTURES-ZAM — LOS ARGENTOS FC",
+    "team": "LOS ARGENTOS FC",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "Maximiliano Sebastian Gutierrez",
+    "round": "Jornada 23",
+    "match": "ASTURES-ZAM — LOS ARGENTOS FC",
+    "team": "LOS ARGENTOS FC",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "Santiago José  Pla",
+    "round": "Jornada 23",
+    "match": "ASTURES-ZAM — LOS ARGENTOS FC",
+    "team": "LOS ARGENTOS FC",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "Santiago José  Pla",
+    "round": "Jornada 23",
+    "match": "ASTURES-ZAM — LOS ARGENTOS FC",
+    "team": "LOS ARGENTOS FC",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "Santiago José  Pla",
+    "round": "Jornada 23",
+    "match": "ASTURES-ZAM — LOS ARGENTOS FC",
+    "team": "LOS ARGENTOS FC",
+    "sanction_type": "SANCIÓN POR ACUMULACIÓN DE 5 TARJETAS AMARILLAS",
+    "matches_banned": 1
+  },
+  {
+    "player": "Mauricio Gabriel  Sánchez",
+    "round": "Jornada 23",
+    "match": "ASTURES-ZAM — LOS ARGENTOS FC",
+    "team": "LOS ARGENTOS FC",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "Erick Camilo Valero Mendoza",
+    "round": "Jornada 23",
+    "match": "ASTURES-ZAM — LOS ARGENTOS FC",
+    "team": "ASTURES-ZAM",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "Borja Álvarez del Amor",
+    "round": "Jornada 23",
+    "match": "ASTURES-ZAM — LOS ARGENTOS FC",
+    "team": "ASTURES-ZAM",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "PELAYO GONZALEZ DIAZ",
+    "round": "Jornada 23",
+    "match": "ASTURES-ZAM — LOS ARGENTOS FC",
+    "team": "ASTURES-ZAM",
+    "sanction_type": "SANCIÓN POR ACUMULACIÓN DE 5 TARJETAS AMARILLAS",
+    "matches_banned": 1
+  },
+  {
+    "player": "PELAYO GONZALEZ DIAZ",
+    "round": "Jornada 23",
+    "match": "ASTURES-ZAM — LOS ARGENTOS FC",
+    "team": "ASTURES-ZAM",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 1
+  },
+  {
+    "player": "Marcelino Tamargo Menéndez",
+    "round": "Jornada 23",
+    "match": "MANUEL CAÑEDO — MERENDERO EL CRUCE",
+    "team": "MERENDERO EL CRUCE",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "CESAR KATRIEL SOMOZA LIMAS",
+    "round": "Jornada 23",
+    "match": "MANUEL CAÑEDO — MERENDERO EL CRUCE",
+    "team": "MERENDERO EL CRUCE",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "JORGE  GARCÍA SÁNCHEZ",
+    "round": "Jornada 23",
+    "match": "MANUEL CAÑEDO — MERENDERO EL CRUCE",
+    "team": "MERENDERO EL CRUCE",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "CARLOS GOMEZ LEON",
+    "round": "Jornada 23",
+    "match": "MANUEL CAÑEDO — MERENDERO EL CRUCE",
+    "team": "MANUEL CAÑEDO",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "SERGIO MARTINO FERNANDEZ",
+    "round": "Jornada 23",
+    "match": "MANUEL CAÑEDO — MERENDERO EL CRUCE",
+    "team": "MANUEL CAÑEDO",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "Gabriel Franco",
+    "round": "Jornada 23",
+    "match": "METALASA — REAL ASTURCON",
+    "team": "REAL ASTURCON",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "Nahun Ivan Alvarado ilias",
+    "round": "Jornada 23",
+    "match": "METALASA — REAL ASTURCON",
+    "team": "REAL ASTURCON",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "Antonio  Cuero Campaz",
+    "round": "Jornada 23",
+    "match": "METALASA — REAL ASTURCON",
+    "team": "REAL ASTURCON",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "David Rosal Carreira",
+    "round": "Jornada 23",
+    "match": "METALASA — REAL ASTURCON",
+    "team": "METALASA",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "Pablo Bravo Mediavilla",
+    "round": "Jornada 23",
+    "match": "METALASA — REAL ASTURCON",
+    "team": "METALASA",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "Ivan Gonzalez Bada",
+    "round": "Jornada 23",
+    "match": "LAVIANA CF — SAN CLAUDIO",
+    "team": "SAN CLAUDIO",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "ROBERTO CASAS JIMENEZ",
+    "round": "Jornada 23",
+    "match": "LAVIANA CF — SAN CLAUDIO",
+    "team": "LAVIANA CF",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "ALBERTO LAVIANA SUAREZ",
+    "round": "Jornada 23",
+    "match": "LAVIANA CF — SAN CLAUDIO",
+    "team": "LAVIANA CF",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "Juan carlos Prada diaz",
+    "round": "Jornada 23",
+    "match": "PELUQUERIAS FRAN — MIERES DEPORTIVO JALOGU TELECOM",
+    "team": "MIERES DEPORTIVO JALOGU TELECOM",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "JOSÉ MANUEL FERNÁNDEZ MORO",
+    "round": "Jornada 23",
+    "match": "PELUQUERIAS FRAN — MIERES DEPORTIVO JALOGU TELECOM",
+    "team": "MIERES DEPORTIVO JALOGU TELECOM",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "JAIRO PALACIOS MORI",
+    "round": "Jornada 23",
+    "match": "PELUQUERIAS FRAN — MIERES DEPORTIVO JALOGU TELECOM",
+    "team": "MIERES DEPORTIVO JALOGU TELECOM",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "DENIS ALVAREZ GARCIA",
+    "round": "Jornada 23",
+    "match": "PELUQUERIAS FRAN — MIERES DEPORTIVO JALOGU TELECOM",
+    "team": "PELUQUERIAS FRAN",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "Byron Alejandro Tobar Robles",
+    "round": "Jornada 23",
+    "match": "DON PELAYO DESSERT F.C./CORREDORIA VETERANOS — URSA-CONDAL VETERANOS",
+    "team": "URSA-CONDAL VETERANOS",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "Victor Julias Valdes",
+    "round": "Jornada 23",
+    "match": "DON PELAYO DESSERT F.C./CORREDORIA VETERANOS — URSA-CONDAL VETERANOS",
+    "team": "DON PELAYO DESSERT F.C./CORREDORIA VETERANOS",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "ABELARDO CUETOS CUETOS",
+    "round": "Jornada 23",
+    "match": "PEÑA  PACHIN — MANJOYA",
+    "team": "PEÑA  PACHIN",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "MARCOS RODRIGUEZ ROZADA",
+    "round": "Jornada 23",
+    "match": "PEÑA  PACHIN — MANJOYA",
+    "team": "PEÑA  PACHIN",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "Alejandro Jiménez Morán",
+    "round": "Jornada 23",
+    "match": "ABLAÑA GLASSDRIVE-SCALA A — CAFETEROS",
+    "team": "ABLAÑA GLASSDRIVE-SCALA A",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "Luvian  Bernal Mosquera",
+    "round": "Jornada 23",
+    "match": "ABLAÑA GLASSDRIVE-SCALA A — CAFETEROS",
+    "team": "CAFETEROS",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "KEVIN FRAILE MINGO",
+    "round": "",
+    "match": "",
+    "team": "LAVIANA CF",
+    "sanction_type": "Menosprecio al arbitro del encuentro",
+    "matches_banned": 1
+  },
+  {
+    "player": "RICARDO FRAILE",
+    "round": "",
+    "match": "",
+    "team": "LAVIANA CF",
+    "sanction_type": "Menosprecio al arbitro del encuentro",
+    "matches_banned": 3
+  },
+  {
     "player": "RICARDO FRAILE",
     "round": "Jornada 22",
     "match": "MERENDERO EL CRUCE — LAVIANA CF",
@@ -48,14 +360,6 @@
     "matches_banned": 0
   },
   {
-    "player": "Rubén Dario  Arboleda Ospina",
-    "round": "Jornada 22",
-    "match": "CAFETEROS — MANUEL CAÑEDO",
-    "team": "CAFETEROS",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
     "player": "Junior smith Cardona",
     "round": "Jornada 22",
     "match": "CAFETEROS — MANUEL CAÑEDO",
@@ -80,322 +384,18 @@
     "matches_banned": 0
   },
   {
+    "player": "Rubén Dario  Arboleda Ospina",
+    "round": "Jornada 22",
+    "match": "CAFETEROS — MANUEL CAÑEDO",
+    "team": "CAFETEROS",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
     "player": "Juan Carlos Fernández García",
     "round": "Jornada 22",
     "match": "OLLONIEGO CITY — LOS ARGENTOS FC",
     "team": "OLLONIEGO CITY",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "Ivan Vazquez Alvarez",
-    "round": "Jornada 22",
-    "match": "OLLONIEGO CITY — LOS ARGENTOS FC",
-    "team": "OLLONIEGO CITY",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "RICARDO FRAILE",
-    "round": "Jornada 22",
-    "match": "MERENDERO EL CRUCE — LAVIANA CF",
-    "team": "LAVIANA CF",
-    "sanction_type": "SANCIÓN POR ACUMULACIÓN DE 5 TARJETAS AMARILLAS",
-    "matches_banned": 1
-  },
-  {
-    "player": "RICARDO FRAILE",
-    "round": "Jornada 22",
-    "match": "MERENDERO EL CRUCE — LAVIANA CF",
-    "team": "LAVIANA CF",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "ROBERTO ORDOÑEZ SANCHEZ",
-    "round": "Jornada 22",
-    "match": "MERENDERO EL CRUCE — LAVIANA CF",
-    "team": "LAVIANA CF",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "KEVIN FRAILE MINGO",
-    "round": "Jornada 22",
-    "match": "MERENDERO EL CRUCE — LAVIANA CF",
-    "team": "LAVIANA CF",
-    "sanction_type": "SANCIÓN POR ACUMULACIÓN DE 5 TARJETAS AMARILLAS",
-    "matches_banned": 1
-  },
-  {
-    "player": "KEVIN FRAILE MINGO",
-    "round": "Jornada 22",
-    "match": "MERENDERO EL CRUCE — LAVIANA CF",
-    "team": "LAVIANA CF",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "KEVIN FRAILE MINGO",
-    "round": "Jornada 22",
-    "match": "MERENDERO EL CRUCE — LAVIANA CF",
-    "team": "LAVIANA CF",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "CARLOS GONZALEZ DIAZ",
-    "round": "Jornada 22",
-    "match": "MERENDERO EL CRUCE — LAVIANA CF",
-    "team": "LAVIANA CF",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "Saúl  De la Fuente Suárez",
-    "round": "Jornada 22",
-    "match": "MIERES DEPORTIVO JALOGU TELECOM — GIJÓN DEPORTIVO",
-    "team": "GIJÓN DEPORTIVO",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "Saúl  De la Fuente Suárez",
-    "round": "Jornada 22",
-    "match": "MIERES DEPORTIVO JALOGU TELECOM — GIJÓN DEPORTIVO",
-    "team": "GIJÓN DEPORTIVO",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "José Luis De La Vega Alvarez",
-    "round": "Jornada 22",
-    "match": "CF CUELEBRE — METALASA",
-    "team": "METALASA",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "Johnatan Fernandez Gonzalez",
-    "round": "Jornada 22",
-    "match": "CF CUELEBRE — METALASA",
-    "team": "METALASA",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "Alvaro Suarez Martin",
-    "round": "Jornada 22",
-    "match": "SAN CLAUDIO — PEÑA  PACHIN",
-    "team": "SAN CLAUDIO",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "Rubén  Castro Díaz",
-    "round": "Jornada 22",
-    "match": "MIERES DEPORTIVO JALOGU TELECOM — GIJÓN DEPORTIVO",
-    "team": "GIJÓN DEPORTIVO",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "Sergio  Collada Ortiz",
-    "round": "Jornada 22",
-    "match": "MIERES DEPORTIVO JALOGU TELECOM — GIJÓN DEPORTIVO",
-    "team": "GIJÓN DEPORTIVO",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "ALEX COTO SANTOS",
-    "round": "Jornada 22",
-    "match": "MIERES DEPORTIVO JALOGU TELECOM — GIJÓN DEPORTIVO",
-    "team": "MIERES DEPORTIVO JALOGU TELECOM",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "Noe Arias Miranda",
-    "round": "Jornada 22",
-    "match": "MIERES DEPORTIVO JALOGU TELECOM — GIJÓN DEPORTIVO",
-    "team": "MIERES DEPORTIVO JALOGU TELECOM",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "FABIAN COTO FERNÁNDEZ",
-    "round": "Jornada 22",
-    "match": "MIERES DEPORTIVO JALOGU TELECOM — GIJÓN DEPORTIVO",
-    "team": "MIERES DEPORTIVO JALOGU TELECOM",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "Daniel Ordoñez  Masid",
-    "round": "Jornada 22",
-    "match": "MIERES DEPORTIVO JALOGU TELECOM — GIJÓN DEPORTIVO",
-    "team": "MIERES DEPORTIVO JALOGU TELECOM",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "Vladimir Vazquez Alvarez",
-    "round": "Jornada 22",
-    "match": "MIERES DEPORTIVO JALOGU TELECOM — GIJÓN DEPORTIVO",
-    "team": "MIERES DEPORTIVO JALOGU TELECOM",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "Ander Perez Villarrea",
-    "round": "Jornada 22",
-    "match": "BOOMBASTIC F.C. — ESPARTANOS CF",
-    "team": "ESPARTANOS CF",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "Jorge Fernández Iglesias",
-    "round": "Jornada 22",
-    "match": "REAL ASTURCON — MANJOYA",
-    "team": "MANJOYA",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "Manuel Álvarez García",
-    "round": "Jornada 22",
-    "match": "REAL ASTURCON — MANJOYA",
-    "team": "MANJOYA",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "Manuel Álvarez García",
-    "round": "Jornada 22",
-    "match": "REAL ASTURCON — MANJOYA",
-    "team": "MANJOYA",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "PABLO VELASCO SUAREZ",
-    "round": "Jornada 22",
-    "match": "PELUQUERIAS FRAN — ABLAÑA GLASSDRIVE-SCALA A",
-    "team": "ABLAÑA GLASSDRIVE-SCALA A",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "PABLO VELASCO SUAREZ",
-    "round": "Jornada 22",
-    "match": "PELUQUERIAS FRAN — ABLAÑA GLASSDRIVE-SCALA A",
-    "team": "ABLAÑA GLASSDRIVE-SCALA A",
-    "sanction_type": "SANCIÓN POR ACUMULACIÓN DE 5 TARJETAS AMARILLAS",
-    "matches_banned": 1
-  },
-  {
-    "player": "Jaime CASTAÑON diaz",
-    "round": "Jornada 22",
-    "match": "PELUQUERIAS FRAN — ABLAÑA GLASSDRIVE-SCALA A",
-    "team": "ABLAÑA GLASSDRIVE-SCALA A",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "SERGIO ALVAREZ GONZALEZ",
-    "round": "Jornada 22",
-    "match": "PELUQUERIAS FRAN — ABLAÑA GLASSDRIVE-SCALA A",
-    "team": "ABLAÑA GLASSDRIVE-SCALA A",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "SERGIO ALVAREZ GONZALEZ",
-    "round": "Jornada 22",
-    "match": "PELUQUERIAS FRAN — ABLAÑA GLASSDRIVE-SCALA A",
-    "team": "ABLAÑA GLASSDRIVE-SCALA A",
-    "sanction_type": "SANCIÓN POR ACUMULACIÓN DE 5 TARJETAS AMARILLAS",
-    "matches_banned": 1
-  },
-  {
-    "player": "SERGIO ALVAREZ GONZALEZ",
-    "round": "Jornada 22",
-    "match": "PELUQUERIAS FRAN — ABLAÑA GLASSDRIVE-SCALA A",
-    "team": "ABLAÑA GLASSDRIVE-SCALA A",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "Jose Luis Beltrán Vela Aguilar",
-    "round": "Jornada 22",
-    "match": "PELUQUERIAS FRAN — ABLAÑA GLASSDRIVE-SCALA A",
-    "team": "PELUQUERIAS FRAN",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "Jose Luis Beltrán Vela Aguilar",
-    "round": "Jornada 22",
-    "match": "PELUQUERIAS FRAN — ABLAÑA GLASSDRIVE-SCALA A",
-    "team": "PELUQUERIAS FRAN",
-    "sanction_type": "SANCIÓN POR ACUMULACIÓN DE 5 TARJETAS AMARILLAS",
-    "matches_banned": 1
-  },
-  {
-    "player": "Jose Luis Beltrán Vela Aguilar",
-    "round": "Jornada 22",
-    "match": "PELUQUERIAS FRAN — ABLAÑA GLASSDRIVE-SCALA A",
-    "team": "PELUQUERIAS FRAN",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "Carlos Orduña Iriarte",
-    "round": "Jornada 22",
-    "match": "PELUQUERIAS FRAN — ABLAÑA GLASSDRIVE-SCALA A",
-    "team": "PELUQUERIAS FRAN",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "carlos mauricio rios rios",
-    "round": "Jornada 22",
-    "match": "PELUQUERIAS FRAN — ABLAÑA GLASSDRIVE-SCALA A",
-    "team": "PELUQUERIAS FRAN",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "Daniel ricardo Sanabria orduy",
-    "round": "Jornada 22",
-    "match": "PELUQUERIAS FRAN — ABLAÑA GLASSDRIVE-SCALA A",
-    "team": "PELUQUERIAS FRAN",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "José eider Franco nieto",
-    "round": "Jornada 21",
-    "match": "LAVIANA CF — CAFETEROS",
-    "team": "CAFETEROS",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "Víctor Alfonso  Escobar Escobar",
-    "round": "Jornada 21",
-    "match": "LAVIANA CF — CAFETEROS",
-    "team": "CAFETEROS",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "Stibent Londoño Saavedra",
-    "round": "Jornada 21",
-    "match": "LAVIANA CF — CAFETEROS",
-    "team": "CAFETEROS",
     "sanction_type": "TARJETA AMARILLA",
     "matches_banned": 0
   }
