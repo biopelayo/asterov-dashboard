@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T11:42:34.225467",
+  "last_updated": "2026-03-31T10:43:13.787149",
   "source": "https://cdasterov.es",
   "tournament": "LIGA ASTEROV 2025/26",
   "tournament_id": "1317178",
@@ -10,11 +10,6 @@
   "featured_team": "SAN CLAUDIO",
   "featured_team_id": "15612878",
   "team_index": {
-    "15612875": {
-      "name": "METALASA",
-      "division": "1a_division",
-      "total_players": 29
-    },
     "15612879": {
       "name": "MANUEL CAÑEDO",
       "division": "1a_division",
@@ -24,6 +19,11 @@
       "name": "LAVIANA CF",
       "division": "1a_division",
       "total_players": 37
+    },
+    "15612875": {
+      "name": "METALASA",
+      "division": "1a_division",
+      "total_players": 29
     },
     "15612883": {
       "name": "CAFETEROS",
@@ -60,15 +60,15 @@
       "division": "1a_division",
       "total_players": 37
     },
-    "15612878": {
-      "name": "SAN CLAUDIO",
-      "division": "1a_division",
-      "total_players": 38
-    },
     "15612869": {
       "name": "GIJÓN DEPORTIVO",
       "division": "1a_division",
       "total_players": 25
+    },
+    "15612878": {
+      "name": "SAN CLAUDIO",
+      "division": "1a_division",
+      "total_players": 38
     },
     "15612891": {
       "name": "CF CUELEBRE",
@@ -120,15 +120,15 @@
       "division": "2a_division",
       "total_players": 23
     },
-    "15612870": {
-      "name": "ATLETICO JALIN",
-      "division": "2a_division",
-      "total_players": 31
-    },
     "15612876": {
       "name": "BAR ALCEDO",
       "division": "2a_division",
       "total_players": 25
+    },
+    "15612870": {
+      "name": "ATLETICO JALIN",
+      "division": "2a_division",
+      "total_players": 31
     },
     "15612884": {
       "name": "BAR DE VINOS-speedDoor",
