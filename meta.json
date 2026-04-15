@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T10:43:13.787149",
+  "last_updated": "2026-04-15T11:28:58.497041",
   "source": "https://cdasterov.es",
   "tournament": "LIGA ASTEROV 2025/26",
   "tournament_id": "1317178",
@@ -10,6 +10,11 @@
   "featured_team": "SAN CLAUDIO",
   "featured_team_id": "15612878",
   "team_index": {
+    "15612875": {
+      "name": "METALASA",
+      "division": "1a_division",
+      "total_players": 29
+    },
     "15612879": {
       "name": "MANUEL CAÑEDO",
       "division": "1a_division",
@@ -19,11 +24,6 @@
       "name": "LAVIANA CF",
       "division": "1a_division",
       "total_players": 37
-    },
-    "15612875": {
-      "name": "METALASA",
-      "division": "1a_division",
-      "total_players": 29
     },
     "15612883": {
       "name": "CAFETEROS",
@@ -38,7 +38,7 @@
     "15612868": {
       "name": "ABLAÑA GLASSDRIVE-SCALA A",
       "division": "1a_division",
-      "total_players": 30
+      "total_players": 34
     },
     "15612890": {
       "name": "MERENDERO EL CRUCE",
@@ -95,15 +95,15 @@
       "division": "2a_division",
       "total_players": 34
     },
-    "15612867": {
-      "name": "ASTURES-ZAM",
-      "division": "2a_division",
-      "total_players": 29
-    },
     "15612886": {
       "name": "LOS ARGENTOS FC",
       "division": "2a_division",
       "total_players": 31
+    },
+    "15612867": {
+      "name": "ASTURES-ZAM",
+      "division": "2a_division",
+      "total_players": 29
     },
     "15612889": {
       "name": "OLLONIEGO CITY",
@@ -143,7 +143,7 @@
   },
   "stats_summary": {
     "total_teams": 26,
-    "total_players": 821,
+    "total_players": 825,
     "total_matches": 362
   }
 }
