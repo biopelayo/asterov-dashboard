@@ -1,5 +1,141 @@
 [
   {
+    "player": "David Rosal Carreira",
+    "round": "Jornada 25",
+    "match": "LAVIANA CF — METALASA",
+    "team": "METALASA",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "SERGIO NORIEGA DE LA TORRE",
+    "round": "Jornada 25",
+    "match": "LAVIANA CF — METALASA",
+    "team": "LAVIANA CF",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "NAHUEL PUENTE DE ALMEIDA",
+    "round": "Jornada 25",
+    "match": "LAVIANA CF — METALASA",
+    "team": "LAVIANA CF",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "Jorge Suarez Requejo",
+    "round": "Jornada 25",
+    "match": "MANUEL CAÑEDO — MANJOYA",
+    "team": "MANJOYA",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "Jose Mario Montes de Rueda",
+    "round": "Jornada 25",
+    "match": "MANUEL CAÑEDO — MANJOYA",
+    "team": "MANUEL CAÑEDO",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "GABRIEL CUESTA GONZALEZ NUEVO",
+    "round": "Jornada 25",
+    "match": "MANUEL CAÑEDO — MANJOYA",
+    "team": "MANUEL CAÑEDO",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "Manuel Mier García",
+    "round": "Jornada 25",
+    "match": "MANUEL CAÑEDO — MANJOYA",
+    "team": "MANUEL CAÑEDO",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "Adrian Teston Ruidiaz",
+    "round": "Jornada 25",
+    "match": "GIJÓN DEPORTIVO — PEÑA  PACHIN",
+    "team": "PEÑA  PACHIN",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "Francisco Javier  Rodriguez Hernández",
+    "round": "Jornada 25",
+    "match": "GIJÓN DEPORTIVO — PEÑA  PACHIN",
+    "team": "GIJÓN DEPORTIVO",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "Jesus Mata",
+    "round": "Jornada 25",
+    "match": "PELUQUERIAS FRAN — REAL ASTURCON",
+    "team": "REAL ASTURCON",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "Jose Carlos Acuña Marca",
+    "round": "Jornada 25",
+    "match": "PELUQUERIAS FRAN — REAL ASTURCON",
+    "team": "REAL ASTURCON",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "francisco javier casal fidalgo",
+    "round": "Jornada 25",
+    "match": "PELUQUERIAS FRAN — REAL ASTURCON",
+    "team": "PELUQUERIAS FRAN",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "Eduardo Llaneza Martin",
+    "round": "Jornada 25",
+    "match": "PELUQUERIAS FRAN — REAL ASTURCON",
+    "team": "PELUQUERIAS FRAN",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "Carlos Orduña Iriarte",
+    "round": "Jornada 25",
+    "match": "PELUQUERIAS FRAN — REAL ASTURCON",
+    "team": "PELUQUERIAS FRAN",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "CESAR KATRIEL SOMOZA LIMAS",
+    "round": "Jornada 25",
+    "match": "ABLAÑA GLASSDRIVE-SCALA A — MERENDERO EL CRUCE",
+    "team": "MERENDERO EL CRUCE",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "Luis Eduardo  Garcia dominguez",
+    "round": "Jornada 25",
+    "match": "ABLAÑA GLASSDRIVE-SCALA A — MERENDERO EL CRUCE",
+    "team": "ABLAÑA GLASSDRIVE-SCALA A",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
+    "player": "MAMADOU DIALLO",
+    "round": "Jornada 25",
+    "match": "ABLAÑA GLASSDRIVE-SCALA A — MERENDERO EL CRUCE",
+    "team": "ABLAÑA GLASSDRIVE-SCALA A",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
     "player": "Abel Hermida González",
     "round": "Jornada 18",
     "match": "GIJÓN DEPORTIVO — MANJOYA",
@@ -104,6 +240,14 @@
     "matches_banned": 1
   },
   {
+    "player": "Junior smith Cardona",
+    "round": "Jornada 24",
+    "match": "MERENDERO EL CRUCE — CAFETEROS",
+    "team": "CAFETEROS",
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
+  },
+  {
     "player": "José eider Franco nieto",
     "round": "Jornada 24",
     "match": "MERENDERO EL CRUCE — CAFETEROS",
@@ -120,26 +264,10 @@
     "matches_banned": 1
   },
   {
-    "player": "Junior smith Cardona",
-    "round": "Jornada 24",
-    "match": "MERENDERO EL CRUCE — CAFETEROS",
-    "team": "CAFETEROS",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
     "player": "MIGUEL TERESA DE FRUTOS",
     "round": "Jornada 24",
     "match": "MERENDERO EL CRUCE — CAFETEROS",
     "team": "MERENDERO EL CRUCE",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "Ivan González González",
-    "round": "Jornada 24",
-    "match": "ASTURES-ZAM — HURACÁN DE CARREÑO CF",
-    "team": "HURACÁN DE CARREÑO CF",
     "sanction_type": "TARJETA AMARILLA",
     "matches_banned": 0
   },
@@ -160,12 +288,12 @@
     "matches_banned": 0
   },
   {
-    "player": "Víctor Manuel González Clavo",
+    "player": "Ivan González González",
     "round": "Jornada 24",
     "match": "ASTURES-ZAM — HURACÁN DE CARREÑO CF",
     "team": "HURACÁN DE CARREÑO CF",
-    "sanction_type": "SANCIÓN POR ACUMULACIÓN DE 5 TARJETAS AMARILLAS",
-    "matches_banned": 1
+    "sanction_type": "TARJETA AMARILLA",
+    "matches_banned": 0
   },
   {
     "player": "Víctor Manuel González Clavo",
@@ -174,6 +302,14 @@
     "team": "HURACÁN DE CARREÑO CF",
     "sanction_type": "TARJETA AMARILLA",
     "matches_banned": 0
+  },
+  {
+    "player": "Víctor Manuel González Clavo",
+    "round": "Jornada 24",
+    "match": "ASTURES-ZAM — HURACÁN DE CARREÑO CF",
+    "team": "HURACÁN DE CARREÑO CF",
+    "sanction_type": "SANCIÓN POR ACUMULACIÓN DE 5 TARJETAS AMARILLAS",
+    "matches_banned": 1
   },
   {
     "player": "Víctor Manuel González Clavo",
@@ -260,142 +396,6 @@
     "round": "Jornada 24",
     "match": "MANJOYA — LAVIANA CF",
     "team": "MANJOYA",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "Victor Julias Valdes",
-    "round": "Jornada 24",
-    "match": "OLLONIEGO CITY — DON PELAYO DESSERT F.C./CORREDORIA VETERANOS",
-    "team": "DON PELAYO DESSERT F.C./CORREDORIA VETERANOS",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "Antonio Miguel Solís Díaz",
-    "round": "Jornada 24",
-    "match": "OLLONIEGO CITY — DON PELAYO DESSERT F.C./CORREDORIA VETERANOS",
-    "team": "DON PELAYO DESSERT F.C./CORREDORIA VETERANOS",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "Alberto Suarez Carreño",
-    "round": "Jornada 24",
-    "match": "OLLONIEGO CITY — DON PELAYO DESSERT F.C./CORREDORIA VETERANOS",
-    "team": "OLLONIEGO CITY",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "Rubén  Castro Díaz",
-    "round": "Jornada 24",
-    "match": "REAL ASTURCON — GIJÓN DEPORTIVO",
-    "team": "GIJÓN DEPORTIVO",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "Antonio  Cuero Campaz",
-    "round": "Jornada 24",
-    "match": "REAL ASTURCON — GIJÓN DEPORTIVO",
-    "team": "REAL ASTURCON",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "MARIO GARCIA ALVAREZ",
-    "round": "Jornada 24",
-    "match": "LOS ARGENTOS FC — EL LUPULO FEROZ",
-    "team": "EL LUPULO FEROZ",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "Gerard Dominiqui Figueroa Gamboa",
-    "round": "Jornada 24",
-    "match": "LOS ARGENTOS FC — EL LUPULO FEROZ",
-    "team": "LOS ARGENTOS FC",
-    "sanction_type": "TARJETA ROJA POR INSULTOS GRAVE A UN CONTRARIO",
-    "matches_banned": 5
-  },
-  {
-    "player": "Omar Bello Valdes",
-    "round": "Jornada 23",
-    "match": "DON PELAYO DESSERT F.C./CORREDORIA VETERANOS — URSA-CONDAL VETERANOS",
-    "team": "URSA-CONDAL VETERANOS",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "Omar Bello Valdes",
-    "round": "Jornada 23",
-    "match": "DON PELAYO DESSERT F.C./CORREDORIA VETERANOS — URSA-CONDAL VETERANOS",
-    "team": "URSA-CONDAL VETERANOS",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "Santiago Ordoñez garcia",
-    "round": "Jornada 23",
-    "match": "DON PELAYO DESSERT F.C./CORREDORIA VETERANOS — URSA-CONDAL VETERANOS",
-    "team": "URSA-CONDAL VETERANOS",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "Jorge  Blanco Prieto",
-    "round": "Jornada 23",
-    "match": "DON PELAYO DESSERT F.C./CORREDORIA VETERANOS — URSA-CONDAL VETERANOS",
-    "team": "DON PELAYO DESSERT F.C./CORREDORIA VETERANOS",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "Nicolas Mariano Cordoba",
-    "round": "Jornada 23",
-    "match": "ASTURES-ZAM — LOS ARGENTOS FC",
-    "team": "LOS ARGENTOS FC",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "Maximiliano Sebastian Gutierrez",
-    "round": "Jornada 23",
-    "match": "ASTURES-ZAM — LOS ARGENTOS FC",
-    "team": "LOS ARGENTOS FC",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "Santiago José  Pla",
-    "round": "Jornada 23",
-    "match": "ASTURES-ZAM — LOS ARGENTOS FC",
-    "team": "LOS ARGENTOS FC",
-    "sanction_type": "SANCIÓN POR ACUMULACIÓN DE 5 TARJETAS AMARILLAS",
-    "matches_banned": 1
-  },
-  {
-    "player": "Santiago José  Pla",
-    "round": "Jornada 23",
-    "match": "ASTURES-ZAM — LOS ARGENTOS FC",
-    "team": "LOS ARGENTOS FC",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "Santiago José  Pla",
-    "round": "Jornada 23",
-    "match": "ASTURES-ZAM — LOS ARGENTOS FC",
-    "team": "LOS ARGENTOS FC",
-    "sanction_type": "TARJETA AMARILLA",
-    "matches_banned": 0
-  },
-  {
-    "player": "Mauricio Gabriel  Sánchez",
-    "round": "Jornada 23",
-    "match": "ASTURES-ZAM — LOS ARGENTOS FC",
-    "team": "LOS ARGENTOS FC",
     "sanction_type": "TARJETA AMARILLA",
     "matches_banned": 0
   }

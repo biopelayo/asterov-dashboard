@@ -2082,81 +2082,81 @@
         "dates": "04/24/26 – 04/26/26",
         "matches": [
           {
-            "home": "SAN CLAUDIO",
-            "away": "MERENDERO EL CRUCE",
-            "home_goals": null,
-            "away_goals": null,
-            "played": false,
-            "date": "04/26/2026",
-            "time": "10:00",
-            "venue": "Polideportivo Municipal San Claudio, Asturias, España",
-            "match_id": "142670194"
-          },
-          {
-            "home": "CF CUELEBRE",
-            "away": "ABLAÑA GLASSDRIVE-SCALA A",
-            "home_goals": null,
-            "away_goals": null,
-            "played": false,
+            "home": "REAL ASTURCON",
+            "away": "MIERES DEPORTIVO JALOGU TELECOM",
+            "home_goals": 2,
+            "away_goals": 5,
+            "played": true,
             "date": "",
             "time": "",
             "venue": "",
-            "match_id": "142670193"
-          },
-          {
-            "home": "LAVIANA CF",
-            "away": "GIJÓN DEPORTIVO",
-            "home_goals": null,
-            "away_goals": null,
-            "played": false,
-            "date": "",
-            "time": "",
-            "venue": "",
-            "match_id": "142670199"
-          },
-          {
-            "home": "MANJOYA",
-            "away": "CAFETEROS",
-            "home_goals": null,
-            "away_goals": null,
-            "played": false,
-            "date": "",
-            "time": "",
-            "venue": "",
-            "match_id": "142670196"
-          },
-          {
-            "home": "METALASA",
-            "away": "MANUEL CAÑEDO",
-            "home_goals": null,
-            "away_goals": null,
-            "played": false,
-            "date": "",
-            "time": "",
-            "venue": "",
-            "match_id": "142670198"
+            "match_id": "142670195"
           },
           {
             "home": "PEÑA  PACHIN",
             "away": "PELUQUERIAS FRAN",
-            "home_goals": null,
-            "away_goals": null,
-            "played": false,
+            "home_goals": 0,
+            "away_goals": 2,
+            "played": true,
             "date": "",
             "time": "",
             "venue": "",
             "match_id": "142670197"
           },
           {
-            "home": "REAL ASTURCON",
-            "away": "MIERES DEPORTIVO JALOGU TELECOM",
-            "home_goals": null,
-            "away_goals": null,
-            "played": false,
+            "home": "CF CUELEBRE",
+            "away": "ABLAÑA GLASSDRIVE-SCALA A",
+            "home_goals": 0,
+            "away_goals": 5,
+            "played": true,
             "date": "",
             "time": "",
             "venue": "",
-            "match_id": "142670195"
+            "match_id": "142670193"
+          },
+          {
+            "home": "METALASA",
+            "away": "MANUEL CAÑEDO",
+            "home_goals": 5,
+            "away_goals": 0,
+            "played": true,
+            "date": "",
+            "time": "",
+            "venue": "",
+            "match_id": "142670198"
+          },
+          {
+            "home": "SAN CLAUDIO",
+            "away": "MERENDERO EL CRUCE",
+            "home_goals": 1,
+            "away_goals": 4,
+            "played": true,
+            "date": "",
+            "time": "",
+            "venue": "",
+            "match_id": "142670194"
+          },
+          {
+            "home": "MANJOYA",
+            "away": "CAFETEROS",
+            "home_goals": 2,
+            "away_goals": 2,
+            "played": true,
+            "date": "",
+            "time": "",
+            "venue": "",
+            "match_id": "142670196"
+          },
+          {
+            "home": "LAVIANA CF",
+            "away": "GIJÓN DEPORTIVO",
+            "home_goals": 4,
+            "away_goals": 1,
+            "played": true,
+            "date": "",
+            "time": "",
+            "venue": "",
+            "match_id": "142670199"
           }
         ]
       }
@@ -4164,7 +4164,7 @@
           {
             "home": "BOOMBASTIC F.C.",
             "away": "BAR ALCEDO",
-            "home_goals": 1,
+            "home_goals": 3,
             "away_goals": 0,
             "played": true,
             "date": "",
@@ -4225,20 +4225,20 @@
           {
             "home": "EL LUPULO FEROZ",
             "away": "DON PELAYO DESSERT F.C./CORREDORIA VETERANOS",
-            "home_goals": null,
-            "away_goals": null,
-            "played": false,
-            "date": "04/25/2026",
-            "time": "16:00",
-            "venue": "Instalaciones Deportivas La Morgal, Asturias, España",
+            "home_goals": 1,
+            "away_goals": 2,
+            "played": true,
+            "date": "",
+            "time": "",
+            "venue": "",
             "match_id": "142786780"
           },
           {
             "home": "HURACÁN DE CARREÑO CF",
             "away": "ESPARTANOS CF",
-            "home_goals": null,
-            "away_goals": null,
-            "played": false,
+            "home_goals": 1,
+            "away_goals": 4,
+            "played": true,
             "date": "",
             "time": "",
             "venue": "",
@@ -4247,9 +4247,9 @@
           {
             "home": "LOS ARGENTOS FC",
             "away": "ATLETICO JALIN",
-            "home_goals": null,
-            "away_goals": null,
-            "played": false,
+            "home_goals": 3,
+            "away_goals": 0,
+            "played": true,
             "date": "",
             "time": "",
             "venue": "",
@@ -4258,13 +4258,24 @@
           {
             "home": "OLLONIEGO CITY",
             "away": "URSA-CONDAL VETERANOS",
-            "home_goals": null,
-            "away_goals": null,
-            "played": false,
+            "home_goals": 3,
+            "away_goals": 0,
+            "played": true,
             "date": "",
             "time": "",
             "venue": "",
             "match_id": "142786776"
+          },
+          {
+            "home": "ASTURES-ZAM",
+            "away": "BAR DE VINOS-speedDoor",
+            "home_goals": 3,
+            "away_goals": 0,
+            "played": true,
+            "date": "",
+            "time": "",
+            "venue": "",
+            "match_id": "142786778"
           },
           {
             "home": "",
@@ -4287,17 +4298,6 @@
             "time": "",
             "venue": "",
             "match_id": "142786775"
-          },
-          {
-            "home": "ASTURES-ZAM",
-            "away": "BAR DE VINOS-speedDoor",
-            "home_goals": null,
-            "away_goals": null,
-            "played": false,
-            "date": "",
-            "time": "",
-            "venue": "",
-            "match_id": "142786778"
           }
         ]
       }

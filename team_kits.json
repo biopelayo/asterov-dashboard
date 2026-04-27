@@ -1,0 +1,24 @@
+{
+  "15612878": {
+    "primera": {
+      "label": "1ª Equipación",
+      "img": "galeria/Gemini_Generated_Image_3l3wdc3l3wdc3l3w.png",
+      "colors": ["#f5c518", "#1a8fd1", "#0f2640"],
+      "sponsor": "Transportarium",
+      "accent": "#f5c518",
+      "accentText": "#0f2640",
+      "bg": "linear-gradient(160deg, #e8f4f8 0%, #d4eaf5 60%, #c8e2f0 100%)",
+      "borderColor": "rgba(245,197,24,0.5)"
+    },
+    "segunda": {
+      "label": "2ª Equipación",
+      "img": "galeria/Gemini_Generated_Image_xh11s7xh11s7xh11.png",
+      "colors": ["#c0392b", "#111111", "#eeeeee"],
+      "sponsor": "Cafetería Tramontana",
+      "accent": "#c0392b",
+      "accentText": "#ffffff",
+      "bg": "linear-gradient(160deg, #e8f4f8 0%, #d4eaf5 60%, #c8e2f0 100%)",
+      "borderColor": "rgba(192,57,43,0.5)"
+    }
+  }
+}
