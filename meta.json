@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T10:08:45.196186",
+  "last_updated": "2026-04-29T13:20:39.342290",
   "source": "https://cdasterov.es",
   "tournament": "LIGA ASTEROV 2025/26",
   "tournament_id": "1317178",
@@ -128,7 +128,7 @@
     "15612870": {
       "name": "ATLETICO JALIN",
       "division": "2a_division",
-      "total_players": 31
+      "total_players": 32
     },
     "15612884": {
       "name": "BAR DE VINOS-speedDoor",
@@ -143,7 +143,7 @@
   },
   "stats_summary": {
     "total_teams": 26,
-    "total_players": 835,
+    "total_players": 836,
     "total_matches": 362
   }
 }
