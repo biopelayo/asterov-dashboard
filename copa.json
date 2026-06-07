@@ -23,59 +23,59 @@
         },
         {
           "position": 2,
+          "name": "METALASA",
+          "team_id": "15820454",
+          "logo": "https://cdn.leverade.com/thumbnails/AacShjNwRPTz.30x30.jpg",
+          "points": 7,
+          "played": 4,
+          "won": 2,
+          "drawn": 1,
+          "lost": 1,
+          "goals_for": 7,
+          "goals_against": 10,
+          "goal_diff": -3
+        },
+        {
+          "position": 3,
           "name": "DON PELAYO DESSERT F.C./CORREDORIA VETERANOS",
           "team_id": "15820452",
           "logo": "https://cdn.leverade.com/thumbnails/Aas4uJmk6zla.30x30.jpg",
           "points": 5,
-          "played": 3,
+          "played": 4,
           "won": 1,
           "drawn": 2,
-          "lost": 0,
-          "goals_for": 5,
-          "goals_against": 4,
-          "goal_diff": 1
-        },
-        {
-          "position": 3,
-          "name": "METALASA",
-          "team_id": "15820454",
-          "logo": "https://cdn.leverade.com/thumbnails/AacShjNwRPTz.30x30.jpg",
-          "points": 4,
-          "played": 3,
-          "won": 1,
-          "drawn": 1,
           "lost": 1,
-          "goals_for": 4,
-          "goals_against": 8,
-          "goal_diff": -4
+          "goals_for": 7,
+          "goals_against": 7,
+          "goal_diff": 0
         },
         {
           "position": 4,
+          "name": "ASTURES-ZAM",
+          "team_id": "15820446",
+          "logo": "https://cdn.leverade.com/thumbnails/Aa2rsz5ycy05.30x30.jpg",
+          "points": 4,
+          "played": 4,
+          "won": 1,
+          "drawn": 1,
+          "lost": 2,
+          "goals_for": 7,
+          "goals_against": 8,
+          "goal_diff": -1
+        },
+        {
+          "position": 5,
           "name": "MERENDERO EL CRUCE",
           "team_id": "15820465",
           "logo": "https://cdn.leverade.com/thumbnails/AaTE74uRyzVs.30x30.jpg",
           "points": 2,
-          "played": 3,
+          "played": 4,
           "won": 0,
           "drawn": 2,
-          "lost": 1,
-          "goals_for": 3,
-          "goals_against": 6,
-          "goal_diff": -3
-        },
-        {
-          "position": 5,
-          "name": "ASTURES-ZAM",
-          "team_id": "15820446",
-          "logo": "https://cdn.leverade.com/thumbnails/Aa2rsz5ycy05.30x30.jpg",
-          "points": 1,
-          "played": 3,
-          "won": 0,
-          "drawn": 1,
           "lost": 2,
-          "goals_for": 6,
-          "goals_against": 8,
-          "goal_diff": -2
+          "goals_for": 3,
+          "goals_against": 7,
+          "goal_diff": -4
         }
       ],
       "calendar": [
@@ -242,13 +242,24 @@
             {
               "home": "ASTURES-ZAM",
               "away": "MERENDERO EL CRUCE",
-              "home_goals": null,
-              "away_goals": null,
-              "played": false,
-              "date": "05/31/2026",
-              "time": "09:50",
-              "venue": "Campo de fútbol Santa Bárbara, Lugones",
+              "home_goals": 1,
+              "away_goals": 0,
+              "played": true,
+              "date": "",
+              "time": "",
+              "venue": "",
               "match_id": "144642888"
+            },
+            {
+              "home": "METALASA",
+              "away": "DON PELAYO DESSERT F.C./CORREDORIA VETERANOS",
+              "home_goals": 3,
+              "away_goals": 2,
+              "played": true,
+              "date": "",
+              "time": "",
+              "venue": "",
+              "match_id": "144642890"
             },
             {
               "home": "LAVIANA CF",
@@ -260,17 +271,6 @@
               "time": "",
               "venue": "",
               "match_id": "144642889"
-            },
-            {
-              "home": "METALASA",
-              "away": "DON PELAYO DESSERT F.C./CORREDORIA VETERANOS",
-              "home_goals": null,
-              "away_goals": null,
-              "played": false,
-              "date": "",
-              "time": "",
-              "venue": "",
-              "match_id": "144642890"
             }
           ]
         }
@@ -285,42 +285,42 @@
           "name": "CAFETEROS",
           "team_id": "15820462",
           "logo": "https://cdn.leverade.com/thumbnails/AaQywYBzPHLd.30x30.jpg",
-          "points": 7,
-          "played": 3,
-          "won": 2,
+          "points": 10,
+          "played": 4,
+          "won": 3,
           "drawn": 1,
           "lost": 0,
-          "goals_for": 11,
-          "goals_against": 4,
-          "goal_diff": 7
+          "goals_for": 16,
+          "goals_against": 7,
+          "goal_diff": 9
         },
         {
           "position": 2,
+          "name": "OLLONIEGO CITY",
+          "team_id": "15820756",
+          "logo": "https://cdn.leverade.com/thumbnails/Aa5yL3QOC1Qx.30x30.jpg",
+          "points": 8,
+          "played": 4,
+          "won": 2,
+          "drawn": 2,
+          "lost": 0,
+          "goals_for": 12,
+          "goals_against": 8,
+          "goal_diff": 4
+        },
+        {
+          "position": 3,
           "name": "MIERES DEPORTIVO JALOGU TELECOM",
           "team_id": "15820757",
           "logo": "https://cdn.leverade.com/thumbnails/AawtbBEkoCeH.30x30.jpg",
           "points": 6,
-          "played": 3,
+          "played": 4,
           "won": 2,
           "drawn": 0,
-          "lost": 1,
-          "goals_for": 4,
-          "goals_against": 4,
-          "goal_diff": 0
-        },
-        {
-          "position": 3,
-          "name": "OLLONIEGO CITY",
-          "team_id": "15820756",
-          "logo": "https://cdn.leverade.com/thumbnails/Aa5yL3QOC1Qx.30x30.jpg",
-          "points": 5,
-          "played": 3,
-          "won": 1,
-          "drawn": 2,
-          "lost": 0,
+          "lost": 2,
           "goals_for": 7,
-          "goals_against": 5,
-          "goal_diff": 2
+          "goals_against": 9,
+          "goal_diff": -2
         },
         {
           "position": 4,
@@ -328,13 +328,13 @@
           "team_id": "15820468",
           "logo": "https://cdn.leverade.com/thumbnails/AabxR9eDhGkG.30x30.jpg",
           "points": 4,
-          "played": 3,
+          "played": 4,
           "won": 1,
           "drawn": 1,
-          "lost": 1,
-          "goals_for": 6,
-          "goals_against": 5,
-          "goal_diff": 1
+          "lost": 2,
+          "goals_for": 9,
+          "goals_against": 10,
+          "goal_diff": -1
         },
         {
           "position": 5,
@@ -513,6 +513,28 @@
           "dates": "05/29/26 – 05/31/26",
           "matches": [
             {
+              "home": "HURACÁN DE CARREÑO CF",
+              "away": "CAFETEROS",
+              "home_goals": 3,
+              "away_goals": 5,
+              "played": true,
+              "date": "",
+              "time": "",
+              "venue": "",
+              "match_id": "144642923"
+            },
+            {
+              "home": "MIERES DEPORTIVO JALOGU TELECOM",
+              "away": "OLLONIEGO CITY",
+              "home_goals": 3,
+              "away_goals": 5,
+              "played": true,
+              "date": "",
+              "time": "",
+              "venue": "",
+              "match_id": "144642922"
+            },
+            {
               "home": "GIJÓN DEPORTIVO",
               "away": "",
               "home_goals": null,
@@ -522,28 +544,6 @@
               "time": "",
               "venue": "",
               "match_id": "144642924"
-            },
-            {
-              "home": "HURACÁN DE CARREÑO CF",
-              "away": "CAFETEROS",
-              "home_goals": null,
-              "away_goals": null,
-              "played": false,
-              "date": "",
-              "time": "",
-              "venue": "",
-              "match_id": "144642923"
-            },
-            {
-              "home": "MIERES DEPORTIVO JALOGU TELECOM",
-              "away": "OLLONIEGO CITY",
-              "home_goals": null,
-              "away_goals": null,
-              "played": false,
-              "date": "",
-              "time": "",
-              "venue": "",
-              "match_id": "144642922"
             }
           ]
         }
@@ -555,31 +555,31 @@
       "standings": [
         {
           "position": 1,
-          "name": "ABLAÑA GLASSDRIVE-SCALA A",
+          "name": "ABLAÑA GLASSDRIVE-SCALA",
           "team_id": "15820447",
           "logo": "https://cdn.leverade.com/thumbnails/AaGbkDrwGNk0.30x30.jpg",
-          "points": 6,
-          "played": 3,
-          "won": 2,
+          "points": 9,
+          "played": 4,
+          "won": 3,
           "drawn": 0,
           "lost": 1,
-          "goals_for": 11,
-          "goals_against": 5,
-          "goal_diff": 6
+          "goals_for": 14,
+          "goals_against": 6,
+          "goal_diff": 8
         },
         {
           "position": 2,
           "name": "BOOMBASTIC F.C.",
           "team_id": "15820467",
           "logo": "https://cdn.leverade.com/thumbnails/AarlzvuJfaUS.30x30.jpg",
-          "points": 5,
-          "played": 3,
-          "won": 1,
+          "points": 8,
+          "played": 4,
+          "won": 2,
           "drawn": 2,
           "lost": 0,
-          "goals_for": 5,
-          "goals_against": 4,
-          "goal_diff": 1
+          "goals_for": 12,
+          "goals_against": 5,
+          "goal_diff": 7
         },
         {
           "position": 3,
@@ -587,13 +587,13 @@
           "team_id": "15820457",
           "logo": "https://cdn.leverade.com/thumbnails/AasFa76hjDzb.30x30.jpg",
           "points": 4,
-          "played": 3,
+          "played": 4,
           "won": 1,
           "drawn": 1,
-          "lost": 1,
-          "goals_for": 4,
-          "goals_against": 5,
-          "goal_diff": -1
+          "lost": 2,
+          "goals_for": 5,
+          "goals_against": 8,
+          "goal_diff": -3
         },
         {
           "position": 4,
@@ -615,13 +615,13 @@
           "team_id": "15820460",
           "logo": "https://cdn.leverade.com/thumbnails/AacQeYZ8r9pO.30x30.jpg",
           "points": 3,
-          "played": 3,
+          "played": 4,
           "won": 1,
           "drawn": 0,
-          "lost": 2,
-          "goals_for": 6,
-          "goals_against": 7,
-          "goal_diff": -1
+          "lost": 3,
+          "goals_for": 7,
+          "goals_against": 14,
+          "goal_diff": -7
         }
       ],
       "calendar": [
@@ -631,7 +631,7 @@
           "matches": [
             {
               "home": "BOOMBASTIC F.C.",
-              "away": "ABLAÑA GLASSDRIVE-SCALA A",
+              "away": "ABLAÑA GLASSDRIVE-SCALA",
               "home_goals": 2,
               "away_goals": 1,
               "played": true,
@@ -669,7 +669,7 @@
           "dates": "05/08/26 – 05/10/26",
           "matches": [
             {
-              "home": "ABLAÑA GLASSDRIVE-SCALA A",
+              "home": "ABLAÑA GLASSDRIVE-SCALA",
               "away": "CF CUELEBRE",
               "home_goals": 5,
               "away_goals": 1,
@@ -730,7 +730,7 @@
               "match_id": "144643066"
             },
             {
-              "home": "ABLAÑA GLASSDRIVE-SCALA A",
+              "home": "ABLAÑA GLASSDRIVE-SCALA",
               "away": "",
               "home_goals": null,
               "away_goals": null,
@@ -747,7 +747,7 @@
           "dates": "05/22/26 – 05/24/26",
           "matches": [
             {
-              "home": "ABLAÑA GLASSDRIVE-SCALA A",
+              "home": "ABLAÑA GLASSDRIVE-SCALA",
               "away": "EL LUPULO FEROZ",
               "home_goals": 5,
               "away_goals": 2,
@@ -788,23 +788,23 @@
             {
               "home": "EL LUPULO FEROZ",
               "away": "BOOMBASTIC F.C.",
-              "home_goals": null,
-              "away_goals": null,
-              "played": false,
-              "date": "05/30/2026",
-              "time": "17:00",
-              "venue": "Instalaciones Deportivas La Morgal, Asturias, España",
+              "home_goals": 1,
+              "away_goals": 7,
+              "played": true,
+              "date": "",
+              "time": "",
+              "venue": "",
               "match_id": "144643072"
             },
             {
               "home": "SAN CLAUDIO",
-              "away": "ABLAÑA GLASSDRIVE-SCALA A",
-              "home_goals": null,
-              "away_goals": null,
-              "played": false,
-              "date": "05/31/2026",
-              "time": "10:00",
-              "venue": "Polideportivo Municipal San Claudio, Asturias, España",
+              "away": "ABLAÑA GLASSDRIVE-SCALA",
+              "home_goals": 1,
+              "away_goals": 3,
+              "played": true,
+              "date": "",
+              "time": "",
+              "venue": "",
               "match_id": "144643073"
             },
             {
@@ -845,28 +845,28 @@
           "name": "REAL ASTURCON",
           "team_id": "15820450",
           "logo": "https://cdn.leverade.com/thumbnails/Aa5BJy82qqKb.30x30.jpg",
-          "points": 4,
-          "played": 3,
-          "won": 1,
+          "points": 7,
+          "played": 4,
+          "won": 2,
           "drawn": 1,
           "lost": 1,
-          "goals_for": 9,
+          "goals_for": 15,
           "goals_against": 7,
-          "goal_diff": 2
+          "goal_diff": 8
         },
         {
           "position": 3,
           "name": "LOS ARGENTOS FC",
           "team_id": "15820463",
           "logo": "https://cdn.leverade.com/thumbnails/AapqlEeY30g1.30x30.jpg",
-          "points": 4,
-          "played": 3,
-          "won": 1,
+          "points": 7,
+          "played": 4,
+          "won": 2,
           "drawn": 1,
           "lost": 1,
-          "goals_for": 9,
-          "goals_against": 9,
-          "goal_diff": 0
+          "goals_for": 18,
+          "goals_against": 11,
+          "goal_diff": 7
         },
         {
           "position": 4,
@@ -874,13 +874,13 @@
           "team_id": "15820461",
           "logo": "https://cdn.leverade.com/thumbnails/AaqfGLPMzDzw.30x30.jpg",
           "points": 3,
-          "played": 3,
+          "played": 4,
           "won": 1,
           "drawn": 0,
-          "lost": 2,
+          "lost": 3,
           "goals_for": 7,
-          "goals_against": 16,
-          "goal_diff": -9
+          "goals_against": 22,
+          "goal_diff": -15
         },
         {
           "position": 5,
@@ -888,13 +888,13 @@
           "team_id": "15820455",
           "logo": "https://cdn.leverade.com/thumbnails/AaX1XcMknsNv.30x30.jpg",
           "points": 0,
-          "played": 3,
+          "played": 4,
           "won": 0,
           "drawn": 0,
-          "lost": 3,
-          "goals_for": 4,
-          "goals_against": 17,
-          "goal_diff": -13
+          "lost": 4,
+          "goals_for": 6,
+          "goals_against": 26,
+          "goal_diff": -20
         }
       ],
       "calendar": [
@@ -1061,13 +1061,24 @@
             {
               "home": "LOS ARGENTOS FC",
               "away": "BAR ALCEDO",
-              "home_goals": null,
-              "away_goals": null,
-              "played": false,
+              "home_goals": 9,
+              "away_goals": 2,
+              "played": true,
               "date": "",
               "time": "",
               "venue": "",
               "match_id": "144643086"
+            },
+            {
+              "home": "URSA-CONDAL VETERANOS",
+              "away": "REAL ASTURCON",
+              "home_goals": 0,
+              "away_goals": 6,
+              "played": true,
+              "date": "",
+              "time": "",
+              "venue": "",
+              "match_id": "144643087"
             },
             {
               "home": "PELUQUERIAS FRAN",
@@ -1079,17 +1090,6 @@
               "time": "",
               "venue": "",
               "match_id": "144643088"
-            },
-            {
-              "home": "URSA-CONDAL VETERANOS",
-              "away": "REAL ASTURCON",
-              "home_goals": null,
-              "away_goals": null,
-              "played": false,
-              "date": "",
-              "time": "",
-              "venue": "",
-              "match_id": "144643087"
             }
           ]
         }
@@ -1104,42 +1104,42 @@
           "name": "MANUEL CAÑEDO",
           "team_id": "15820458",
           "logo": "https://cdn.leverade.com/thumbnails/AaPf06ODR8Jh.30x30.jpg",
-          "points": 6,
-          "played": 3,
-          "won": 2,
+          "points": 9,
+          "played": 4,
+          "won": 3,
           "drawn": 0,
+          "lost": 1,
+          "goals_for": 16,
+          "goals_against": 6,
+          "goal_diff": 10
+        },
+        {
+          "position": 2,
+          "name": "MANJOYA",
+          "team_id": "15820451",
+          "logo": "https://cdn.leverade.com/thumbnails/Aacgc56OmxeC.30x30.jpg",
+          "points": 7,
+          "played": 4,
+          "won": 2,
+          "drawn": 1,
           "lost": 1,
           "goals_for": 12,
           "goals_against": 5,
           "goal_diff": 7
         },
         {
-          "position": 2,
+          "position": 3,
           "name": "PEÑA  PACHIN",
           "team_id": "15820453",
           "logo": "https://cdn.leverade.com/thumbnails/Aag8pEM51bsQ.30x30.jpg",
           "points": 6,
-          "played": 3,
+          "played": 4,
           "won": 2,
           "drawn": 0,
-          "lost": 1,
+          "lost": 2,
           "goals_for": 11,
-          "goals_against": 5,
-          "goal_diff": 6
-        },
-        {
-          "position": 3,
-          "name": "MANJOYA",
-          "team_id": "15820451",
-          "logo": "https://cdn.leverade.com/thumbnails/Aacgc56OmxeC.30x30.jpg",
-          "points": 4,
-          "played": 3,
-          "won": 1,
-          "drawn": 1,
-          "lost": 1,
-          "goals_for": 7,
-          "goals_against": 5,
-          "goal_diff": 2
+          "goals_against": 10,
+          "goal_diff": 1
         },
         {
           "position": 4,
@@ -1147,13 +1147,13 @@
           "team_id": "15820464",
           "logo": "https://cdn.leverade.com/thumbnails/Aa0Wu1hQbmo6.30x30.jpg",
           "points": 4,
-          "played": 3,
+          "played": 4,
           "won": 1,
           "drawn": 1,
-          "lost": 1,
-          "goals_for": 6,
-          "goals_against": 7,
-          "goal_diff": -1
+          "lost": 2,
+          "goals_for": 7,
+          "goals_against": 11,
+          "goal_diff": -4
         },
         {
           "position": 5,
@@ -1332,6 +1332,28 @@
           "dates": "05/29/26 – 05/31/26",
           "matches": [
             {
+              "home": "MANJOYA",
+              "away": "PEÑA  PACHIN",
+              "home_goals": 5,
+              "away_goals": 0,
+              "played": true,
+              "date": "",
+              "time": "",
+              "venue": "",
+              "match_id": "144643109"
+            },
+            {
+              "home": "ESPARTANOS CF",
+              "away": "MANUEL CAÑEDO",
+              "home_goals": 1,
+              "away_goals": 4,
+              "played": true,
+              "date": "",
+              "time": "",
+              "venue": "",
+              "match_id": "144643108"
+            },
+            {
               "home": "ATLETICO JALIN",
               "away": "",
               "home_goals": null,
@@ -1341,28 +1363,6 @@
               "time": "",
               "venue": "",
               "match_id": "144643110"
-            },
-            {
-              "home": "ESPARTANOS CF",
-              "away": "MANUEL CAÑEDO",
-              "home_goals": null,
-              "away_goals": null,
-              "played": false,
-              "date": "",
-              "time": "",
-              "venue": "",
-              "match_id": "144643108"
-            },
-            {
-              "home": "MANJOYA",
-              "away": "PEÑA  PACHIN",
-              "home_goals": null,
-              "away_goals": null,
-              "played": false,
-              "date": "",
-              "time": "",
-              "venue": "",
-              "match_id": "144643109"
             }
           ]
         }
@@ -1372,7 +1372,152 @@
       "label": "Octavos",
       "group_id": "3686028",
       "standings": [],
-      "calendar": []
+      "calendar": [
+        {
+          "round": "Octavos de final(06/05/26 – 06/07/26)",
+          "dates": "",
+          "matches": [
+            {
+              "home": "ABLAÑA GLASSDRIVE-SCALA",
+              "away": "HURACÁN DE CARREÑO CF",
+              "home_goals": 6,
+              "away_goals": 1,
+              "played": true,
+              "date": "",
+              "time": "",
+              "venue": "",
+              "match_id": "144643288"
+            },
+            {
+              "home": "PELUQUERIAS FRAN",
+              "away": "DON PELAYO DESSERT F.C./CORREDORIA VETERANOS",
+              "home_goals": 3,
+              "away_goals": 4,
+              "played": true,
+              "date": "",
+              "time": "",
+              "venue": "",
+              "match_id": "144643290"
+            },
+            {
+              "home": "MANUEL CAÑEDO",
+              "away": "MIERES DEPORTIVO JALOGU TELECOM",
+              "home_goals": 2,
+              "away_goals": 4,
+              "played": true,
+              "date": "",
+              "time": "",
+              "venue": "",
+              "match_id": "144643292"
+            },
+            {
+              "home": "LAVIANA CF",
+              "away": "LOS ARGENTOS FC",
+              "home_goals": 6,
+              "away_goals": 4,
+              "played": true,
+              "date": "",
+              "time": "",
+              "venue": "",
+              "match_id": "144643284"
+            },
+            {
+              "home": "OLLONIEGO CITY",
+              "away": "REAL ASTURCON",
+              "home_goals": 2,
+              "away_goals": 0,
+              "played": true,
+              "date": "",
+              "time": "",
+              "venue": "",
+              "match_id": "144643296"
+            },
+            {
+              "home": "MANJOYA",
+              "away": "SAN CLAUDIO",
+              "home_goals": 3,
+              "away_goals": 2,
+              "played": true,
+              "date": "",
+              "time": "",
+              "venue": "",
+              "match_id": "144643298"
+            },
+            {
+              "home": "CAFETEROS",
+              "away": "PEÑA  PACHIN",
+              "home_goals": 4,
+              "away_goals": 1,
+              "played": true,
+              "date": "",
+              "time": "",
+              "venue": "",
+              "match_id": "144643286"
+            },
+            {
+              "home": "METALASA",
+              "away": "BOOMBASTIC F.C.",
+              "home_goals": 2,
+              "away_goals": 4,
+              "played": true,
+              "date": "",
+              "time": "",
+              "venue": "",
+              "match_id": "144643294"
+            }
+          ]
+        },
+        {
+          "round": "Cuartos de final(06/12/26 – 06/14/26)",
+          "dates": "",
+          "matches": [
+            {
+              "home": "MIERES DEPORTIVO JALOGU TELECOM",
+              "away": "BOOMBASTIC F.C.",
+              "home_goals": null,
+              "away_goals": null,
+              "played": false,
+              "date": "06/14/2026",
+              "time": "09:45",
+              "venue": "Campo de fútbol Eliseo Gutiérrez (Antiguo Mundial 82), Mieres, España",
+              "match_id": "144643304"
+            },
+            {
+              "home": "ABLAÑA GLASSDRIVE-SCALA",
+              "away": "DON PELAYO DESSERT F.C./CORREDORIA VETERANOS",
+              "home_goals": null,
+              "away_goals": null,
+              "played": false,
+              "date": "",
+              "time": "",
+              "venue": "",
+              "match_id": "144643302"
+            },
+            {
+              "home": "LAVIANA CF",
+              "away": "CAFETEROS",
+              "home_goals": null,
+              "away_goals": null,
+              "played": false,
+              "date": "",
+              "time": "",
+              "venue": "",
+              "match_id": "144643300"
+            },
+            {
+              "home": "OLLONIEGO CITY",
+              "away": "MANJOYA",
+              "home_goals": null,
+              "away_goals": null,
+              "played": false,
+              "date": "",
+              "time": "",
+              "venue": "",
+              "match_id": "144643306"
+            }
+          ]
+        }
+      ]
     }
   },
   "featured_team_group": "grupo_c"
