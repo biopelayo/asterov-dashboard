@@ -1472,48 +1472,76 @@
           "dates": "",
           "matches": [
             {
-              "home": "MIERES DEPORTIVO JALOGU TELECOM",
-              "away": "BOOMBASTIC F.C.",
-              "home_goals": null,
-              "away_goals": null,
-              "played": false,
-              "date": "06/14/2026",
-              "time": "09:45",
-              "venue": "Campo de fútbol Eliseo Gutiérrez (Antiguo Mundial 82), Mieres, España",
-              "match_id": "144643304"
-            },
-            {
-              "home": "ABLAÑA GLASSDRIVE-SCALA",
-              "away": "DON PELAYO DESSERT F.C./CORREDORIA VETERANOS",
-              "home_goals": null,
-              "away_goals": null,
-              "played": false,
-              "date": "",
-              "time": "",
-              "venue": "",
-              "match_id": "144643302"
-            },
-            {
               "home": "LAVIANA CF",
               "away": "CAFETEROS",
-              "home_goals": null,
-              "away_goals": null,
-              "played": false,
+              "home_goals": 0,
+              "away_goals": 4,
+              "played": true,
               "date": "",
               "time": "",
               "venue": "",
               "match_id": "144643300"
             },
             {
+              "home": "ABLAÑA GLASSDRIVE-SCALA",
+              "away": "DON PELAYO DESSERT F.C./CORREDORIA VETERANOS",
+              "home_goals": 4,
+              "away_goals": 0,
+              "played": true,
+              "date": "",
+              "time": "",
+              "venue": "",
+              "match_id": "144643302"
+            },
+            {
+              "home": "MIERES DEPORTIVO JALOGU TELECOM",
+              "away": "BOOMBASTIC F.C.",
+              "home_goals": 3,
+              "away_goals": 1,
+              "played": true,
+              "date": "",
+              "time": "",
+              "venue": "",
+              "match_id": "144643304"
+            },
+            {
               "home": "OLLONIEGO CITY",
               "away": "MANJOYA",
-              "home_goals": null,
-              "away_goals": null,
-              "played": false,
+              "home_goals": 0,
+              "away_goals": 4,
+              "played": true,
               "date": "",
               "time": "",
               "venue": "",
               "match_id": "144643306"
+            }
+          ]
+        },
+        {
+          "round": "Semifinal",
+          "dates": "",
+          "matches": [
+            {
+              "home": "CAFETEROS",
+              "away": "ABLAÑA GLASSDRIVE-SCALA",
+              "home_goals": null,
+              "away_goals": null,
+              "played": false,
+              "date": "06/20/2026",
+              "time": "16:00",
+              "venue": "campo de fútbol de Ujo, Asturias, España",
+              "match_id": "144643308"
+            },
+            {
+              "home": "MIERES DEPORTIVO JALOGU TELECOM",
+              "away": "MANJOYA",
+              "home_goals": null,
+              "away_goals": null,
+              "played": false,
+              "date": "06/20/2026",
+              "time": "18:30",
+              "venue": "campo de fútbol de Ujo, Asturias, España",
+              "match_id": "144643310"
             }
           ]
         }
