@@ -1524,24 +1524,41 @@
             {
               "home": "CAFETEROS",
               "away": "ABLAÑA GLASSDRIVE-SCALA",
-              "home_goals": null,
-              "away_goals": null,
-              "played": false,
-              "date": "06/20/2026",
-              "time": "16:00",
-              "venue": "campo de fútbol de Ujo, Asturias, España",
+              "home_goals": 5,
+              "away_goals": 2,
+              "played": true,
+              "date": "",
+              "time": "",
+              "venue": "",
               "match_id": "144643308"
             },
             {
               "home": "MIERES DEPORTIVO JALOGU TELECOM",
               "away": "MANJOYA",
+              "home_goals": 3,
+              "away_goals": 0,
+              "played": true,
+              "date": "",
+              "time": "",
+              "venue": "",
+              "match_id": "144643310"
+            }
+          ]
+        },
+        {
+          "round": "Final",
+          "dates": "",
+          "matches": [
+            {
+              "home": "CAFETEROS",
+              "away": "MIERES DEPORTIVO JALOGU TELECOM",
               "home_goals": null,
               "away_goals": null,
               "played": false,
-              "date": "06/20/2026",
+              "date": "06/27/2026",
               "time": "18:30",
-              "venue": "campo de fútbol de Ujo, Asturias, España",
-              "match_id": "144643310"
+              "venue": "Campo de fútbol Santa Bárbara, Lugones",
+              "match_id": "144643312"
             }
           ]
         }
