@@ -1552,12 +1552,12 @@
             {
               "home": "CAFETEROS",
               "away": "MIERES DEPORTIVO JALOGU TELECOM",
-              "home_goals": null,
-              "away_goals": null,
-              "played": false,
-              "date": "06/27/2026",
-              "time": "18:30",
-              "venue": "Campo de fútbol Santa Bárbara, Lugones",
+              "home_goals": 3,
+              "away_goals": 2,
+              "played": true,
+              "date": "",
+              "time": "",
+              "venue": "",
               "match_id": "144643312"
             }
           ]
