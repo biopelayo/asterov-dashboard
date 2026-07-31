@@ -1552,9 +1552,9 @@
             {
               "home": "CAFETEROS",
               "away": "MIERES DEPORTIVO JALOGU TELECOM",
-              "home_goals": 3,
-              "away_goals": 2,
-              "played": true,
+              "home_goals": null,
+              "away_goals": null,
+              "played": false,
               "date": "",
               "time": "",
               "venue": "",
